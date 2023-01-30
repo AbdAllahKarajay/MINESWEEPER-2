@@ -1,0 +1,7 @@
+230 mines						default:50
+
+1	point for uncovering a square		default:1
+25 	point for uncovering square to win	default:25
+5 	point for successful mark		default:5
+-40	point for unsuccessful mark		default:-40
+-80	point for uncovering mine		default:-80
